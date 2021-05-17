@@ -29,8 +29,8 @@ The previous example showed you how easy it was to render a .blend file on Golem
 
 If you want to do the same, but using commands, feel free to check out [a quick primer](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) example from the handbook which utilizes commands.), which can be used by a bit more advanced users who feel comfortable using commands.
 ### Advancing
-This guide is mainly using [Slate](https://golem-slate.xyz/) as to not scare non-developers away, but if you're interested in making your own applications you could check out our [developer guide]().
+This guide is mainly using [Slate](https://golem-slate.xyz/) as to not scare non-developers away, but if you're interested in making your own applications you could check out our [developer guide](https://github.com/figurestudios/community-golem-docs/blob/main/requesting/developer-guide.md).
 
-This guide is currently put on hold as [Slate](https://golem-slate.xyz/) is not yet supporting Python nor Javascript request scripts, but will receive an update once the [developer guide]() is finished.
+This guide is currently put on hold as [Slate](https://golem-slate.xyz/) is not yet supporting Python nor Javascript request scripts, but will receive an update once the [developer guide](https://github.com/figurestudios/community-golem-docs/blob/main/requesting/developer-guide.md) is finished.
 
 For now, if you want to advance, you must follow the [handbook](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) and learn the command-line interface
