@@ -27,6 +27,59 @@
 Install the latest stable release by invoking this command:
 
 ``curl -sSf https://join.golem.network/dev/as-provider | bash -``
+
+If you want to run golem as an isolated user account you can run:
+```bash
+# Create a new user with home folder
+useradd -m golem -s /bin/bash
+# Add user to kvm group
+usermod -aG kvm golem
+# Switch to new account
+su -l golem
+# Run install script
+curl -sSf https://join.golem.network/as-provider | bash -
+```
+
+A sample systemd service (e.g. `/etc/systemd/system/golem.service`):
+```
+[Unit]
+Description=Golem
+After=network.target
+
+[Service]
+User=golem
+Group=golem
+Environment=PATH=/home/golem/.local/bin:/home/golem/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+Restart=on-failure
+WorkingDirectory=/home/golem
+ExecStart=/home/golem/.local/bin/golemsp run
+
+# Increase Systemd Service Security Score
+LockPersonality=true
+NoNewPrivileges=true
+PrivateUsers=true
+ProtectControlGroups=true
+ProtectHostname=true
+ProtectKernelLogs=true
+ProtectKernelModules=true
+ProtectKernelTunables=true
+RemoveIPC=true
+RestrictNamespaces=true
+RestrictRealtime=true
+RestrictSUIDSGID=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_NETLINK AF_PACKET AF_UNIX
+SystemCallArchitectures=native
+SystemCallFilter=~@clock @debug @module @mount @raw-io @reboot @privileged @obsolete
+CapabilityBoundingSet=~CAP_SYS_ADMIN CAP_SYS_PTRACE CAP_SETUID CAP_SETGID CAP_SETPCAP CAP_NET_ADMIN CAP_CHOWN CAP_FSETID CAP_SETFCAP CAP_FOWNER CAP_IPC_OWNER CAP_DAC_OVERRIDE CAP_DAC_READ_SEARCH CAP_KILL CAP_SYS_BOOT
+
+[Install]
+WantedBy=default.target
+```
+
+This is a semi-locked down systemd service with a `systemd-analyze security` score of `4.0`
+
+`Overall exposure level for golem.service: 4.0 OK`
+
 ##### Troubles? Refer to [this](https://handbook.golem.network/troubleshooting/provider-troubleshooting) page or join the [discord](https://chat.golem.network).
 
 ### On Windows
