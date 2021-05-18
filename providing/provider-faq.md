@@ -1,4 +1,4 @@
-# Provider FaQ
+# Provider FAQ
 
 ### Contents
 
@@ -79,6 +79,12 @@ WantedBy=default.target
 This is a semi-locked down systemd service with a `systemd-analyze security` score of `4.0`
 
 `Overall exposure level for golem.service: 4.0 OK`
+
+Start it with:
+```bash
+systemctl enable golem.service
+systemctl start golem.service 
+```
 
 ##### Troubles? Refer to [this](https://handbook.golem.network/troubleshooting/provider-troubleshooting) page or join the [discord](https://chat.golem.network).
 
