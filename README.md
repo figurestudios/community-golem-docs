@@ -8,4 +8,4 @@ Collection of community-created documentation for Golem created as to minimize t
 - [Requesting](https://github.com/figurestudios/community-golem-docs/tree/main/requesting)
   - [Requesting your first task](https://github.com/figurestudios/community-golem-docs/blob/main/requesting/requesting-your-first-task.md)
 - [Developing](https://github.com/figurestudios/community-golem-docs/tree/main/developing)
-  - [Developer Guide](https://github.com/figurestudios/community-golem-docs/blob/main/developing/developer-guide.md)
+  - [Creating your first application](https://github.com/figurestudios/community-golem-docs/blob/main/developing/creating-your-first-app.md)
