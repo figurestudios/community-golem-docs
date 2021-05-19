@@ -29,7 +29,7 @@ Golem has a few ups and downs in its current state, with the ups being:
 ```
 1. It allows for distribution of tasks, so something that would normally take 1 server an hour, could be spread out into smaller tasks over hundreds of servers to save tons of time.
 2. With most providers setting their prices at $0.1 GLM/CPU hour, which translated to USD costs $0.0371 (at the time of writing this) to rent a CPU-core for one whole hour. This makes it relatively cheap to access tons of hardware.
-3. You can get rewarded in both hackathons & by community grants - requesting a lot can make you count as a "Super User", making you eligible to win 2,500 GLM.
+3. You can get rewarded in both hackathons & by community grants - requesting a lot can make you count as a "Super User", making you eligible to win 2,500 GLM by-monthly.
 4. As it's decentralized, there are a lot of access points and a lot of failures are needed for the entire network to go down.
 5. Golem is cool 😎
 ```
