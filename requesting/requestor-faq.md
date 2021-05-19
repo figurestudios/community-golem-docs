@@ -2,15 +2,15 @@
 
 ### Contents
  - [General Questions](#general-questions)
-  - [What sorts of applications can be ran on Golem?](#what-sorts-of-applications-can-be-ran-on-golem)
-  - [Where can I find applications to use on Golem](#where-can-i-find-applications-to-use-on-golem)
-  - [What known limitations are there?](#what-known-limitations-are-there)
-  - [How can I request a simple task?](#how-can-i-request-a-simple-task)
-  - [Where do I get started for development?](#where-do-i-get-started-for-development)
+   - [What sorts of applications can be ran on Golem?](#what-sorts-of-applications-can-be-ran-on-golem)
+   - [Where can I find applications to use on Golem](#where-can-i-find-applications-to-use-on-golem)
+   - [What known limitations are there?](#what-known-limitations-are-there)
+   - [How can I request a simple task?](#how-can-i-request-a-simple-task)
+   - [Where do I get started for development?](#where-do-i-get-started-for-development)
  - [Price-related Questions](#price-related-questions)
-  - [How much does it cost to request a task to be completed?](#how-much-does-it-cost-to-request-a-task-to-be-completed)
-  - [Can I earn money developing on Golem?](#can-i-earn-money-developing-on-golem)
-  - [Is there any way I can try it all out before spending my own money in the system?](#is-there-any-way-i-can-try-it-all-out-before-spending-my-own-money-in-the-system)
+   - [How much does it cost to request a task to be completed?](#how-much-does-it-cost-to-request-a-task-to-be-completed)
+   - [Can I earn money developing on Golem?](#can-i-earn-money-developing-on-golem)
+   - [Is there any way I can try it all out before spending my own money in the system?](#is-there-any-way-i-can-try-it-all-out-before-spending-my-own-money-in-the-system)
 
 ## General Questions
 
