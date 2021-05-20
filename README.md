@@ -12,4 +12,5 @@ Collection of community-created documentation for Golem created as to minimize t
   - [Creating your first application](https://github.com/figurestudios/community-golem-docs/blob/main/developing/creating-your-first-app.md)
   - [Developer FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/requesting/requestor-faq.md)
 - [Coin Holders](https://github.com/figurestudios/community-golem-docs/tree/main/coin)
+  - [Earn GLM](https://github.com/figurestudios/community-golem-docs/blob/main/coin/earning-glm.md)
   - [Migration FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/coin/migration-faq.md)
