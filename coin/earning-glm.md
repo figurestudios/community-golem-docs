@@ -60,9 +60,31 @@ Investing in hardware can make you earn GLM by [becoming a provider node](https:
 Do your own calculations before starting as if you don't know what you're doing, you can buy overpriced hardware, lose in the long-term or rack up thousands of dollars of server costs if you don't know what you're doing.
 
 ##### Providing Liquidity
-Providing Liquidity is where you hold 2 coins and allow users to buy/sell these 2 coins automatically. You earn your cut by adding a small commission to the transaction - giving you a % of each trade.
+Providing Liquidity is where you hold 2 coins and allow users to buy/sell these 2 coins automatically. You earn your cut by having a small commission to the transaction - giving you a % of each trade. The % varies depending on which portal you're using, and the risk too.
 
-Get started with providing liquidity [here](https://quickswap.exchange/#/pool).
+You can read more details on providing liquidity [here](https://uniswap.org/docs/v2/core-concepts/pools/).
+
+Get started on Uniswap v1 by:
+```
+1. Login to Uniswap.
+2. Click on 'Pool'
+3. Click on 'Join a pool'
+4. Search for your desired pool.
+5. Click on 'Add Liquidity'.
+6. Enter the value in either coin in the input fields.
+7. Click 'Supply' and confirm.
+```
+Get started on Uniswap v2 by:
+```
+1. Visit Uniswap v2.
+2. Connect your wallet.
+3. Head to the 'Pool' section.
+4. Click 'Create Exchange' in the drop-down field.
+5. Paste the contract address.
+6. Click the 'Join Pool' and confirm.
+```
+
+You can find the contract address on [EtherScan](https://etherscan.io).
 
 Keep in mind that it's not risk-free. UniSwap has a [page](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/) where they explain the risks you're opening yourself up against.
 
