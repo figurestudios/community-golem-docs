@@ -156,4 +156,5 @@ Every month, two users are picked for being helpful for how much feedback they h
 
 ## Credits
 Written by figurestudios
+
 Contribution by MysticRyuujin
