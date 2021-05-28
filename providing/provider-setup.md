@@ -6,6 +6,7 @@
   - [Linux](#on-linux)
   - [Windows](#on-windows)
   - [macOS](#on-macos)
+  - [Raspberry Pi](#on-raspberry-pi)
 - [Settings](#change-settings-on-your-node)
   - [Pricing](#pricing)
   - [Allocated Resources](#allocated-resources)
@@ -39,6 +40,9 @@ Install the latest stable release by invoking this command:
 
 ### On macOS
 Currently not supported
+
+### On Raspberry Pi
+See install instructions [here](https://github.com/MarijnStevens/yagna-binaries).
 
 ## Change settings on your node
 
