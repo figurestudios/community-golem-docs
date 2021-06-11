@@ -6,6 +6,7 @@
   - [Web Interface](#web-interface)
   - [Command-Line](#command-line)
 - [Advancing](#advancing)
+- [Credits](#credits)
 
 
 ### Beginning to understand the system
@@ -34,3 +35,7 @@ This guide is mainly using [Slate](https://golem-slate.xyz/) as to not scare non
 This guide is currently put on hold as [Slate](https://golem-slate.xyz/) is not yet supporting Python nor Javascript request scripts, but will receive an update once the [developer guide](https://github.com/figurestudios/community-golem-docs/blob/main/developing/creating-your-first-app.md) is finished.
 
 For now, if you want to advance, you must follow the [handbook](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) and learn the command-line interface
+
+
+### Credits
+Written by figurestudios
