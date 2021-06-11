@@ -11,6 +11,7 @@
    - [How much does it cost to request a task to be completed?](#how-much-does-it-cost-to-request-a-task-to-be-completed)
    - [Can I earn money developing on Golem?](#can-i-earn-money-developing-on-golem)
    - [Is there any way I can try it all out before spending my own money in the system?](#is-there-any-way-i-can-try-it-all-out-before-spending-my-own-money-in-the-system)
+ - [Credits](#credits)
 
 ## General Questions
 
@@ -53,3 +54,5 @@
 > 
 > You can get 100 GLM coins during hackathons by first requesting a few tasks on the rinkyby testnet, and then writing in #funding in the [discord server](https://chat.golem.network).
 
+### Credits
+Written by figurestudios
