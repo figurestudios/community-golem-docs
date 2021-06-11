@@ -6,6 +6,7 @@
   - [The structure of the Golem Network](#the-structure-of-the-golem-network)
   - [Why would I develop anything on Golem?](#why-would-i-develop-anything-on-golem)
   - [What we will be building](#what-we-will-be-building)
+- [Credits](#credits)
 
 ### Introduction
 So... You've found Golem, found the technology interesting enough and now you want to create your own application. You'll be learning how to make a simple application, how to run it, and understand the core-structure of Golem.
@@ -46,3 +47,6 @@ For now, requestors pay for tasks, and providers earn by renting out their compu
 
 ##### What we will be building
 As this is your first application on Golem, it shouldn't be too complicated to get it all set up. The first example will showcase how to generate lowercase letters from uppercase ones. This is a very simple example, so hopefully you won't get lost just yet. If you do get lost, please join the [discord](https://chat.golem.network) for troubleshooting - we are happy to help :)
+
+### Credits
+Written by figurestudios
