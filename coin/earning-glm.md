@@ -14,6 +14,7 @@ There's no such thing as garuanteed GLM - unless you purchase them. You will eit
   - [Investing in hardware](#investing-in-hardware)
   - [Providing Liquidity](#providing-liquidity)
   - [Trading](#trading)
+- [Credits](#credits)
 
 ### Bounties, Programs & Hackathons
 ##### Providing on an already-used PC/Server
@@ -34,8 +35,8 @@ To find on-going Golem hackathons, check [this](https://gitcoin.co/golemfactory/
 Are you willing to dedicate your time to the Golem Community? Then, this is the category for you, as you can win up to 7,000 GLM for being active in different parts of the community:
 ```
 7000 GLM - bi-monthly - 1x prize  - Task Force General
-5000 GLM - monthly    - 2x prizes - Tech Supporters
-2500 GLM - monthly    - 1x prize  - Content Creator
+4500 GLM - monthly    - 1x prize  - Application Creation and Maintenance category
+4000 GLM - monthly    - 2x prizes - Tech Supporters
 2500 GLM - bi-monthly - 1x prize  - Super User
 1500 GLM - bi-monthly - 1x prize  - Telegram Moderator
 1000 GLM - monthly    - 2x prizes - Feedback Masters
@@ -97,4 +98,5 @@ If you want to bet on GLM's price, you could try margin trading.
 
 The exchanges where you can trade GLM can be found [here](https://glm.golem.network/).
 
-
+### Credits
+Written by figurestudios
