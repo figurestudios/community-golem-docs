@@ -16,6 +16,7 @@
   - [How do I migrate through MyCrypto?](#how-do-i-migrate-through-mycrypto)
 - [MyEtherWallet FAQ](#myetherwallet-faq)
   - [How do I migrate through MyEtherWallet?](#how-do-i-migrate-through-myetherwallet)
+- [Credits](#credits)
 
 ### General FAQ
 ##### How do I migrate?
@@ -55,3 +56,6 @@
 2. Select how much GNT you wish to migrate to GLM (remember that migration is one-way, once you've migrated the GNT is burned).
 3. Confirm the transaction and make sure you set an appropriate gas price (usually the default provided is suitable but you can also check ethgasstation).
 ```
+
+### Credits
+Written by figurestudios
