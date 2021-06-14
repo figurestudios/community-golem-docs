@@ -6,6 +6,7 @@ Collection of community-created documentation for Golem created as to minimize t
 - [Providing](https://github.com/figurestudios/community-golem-docs/tree/main/providing)
   - [Provider Setup](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-setup.md)
   - [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md)
+  - [Maximize Income](https://github.com/figurestudios/community-golem-docs/blob/main/providing/maximize-income.md)
 - [Requesting](https://github.com/figurestudios/community-golem-docs/tree/main/requesting)
   - [Requesting your first task](https://github.com/figurestudios/community-golem-docs/blob/main/requesting/requesting-your-first-task.md)
   - [Requestor FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/requesting/requestor-faq.md)
