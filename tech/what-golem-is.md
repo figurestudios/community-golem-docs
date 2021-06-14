@@ -6,6 +6,7 @@
   - [A brief technical overview](#a-brief-technical-overview)
   - [What Golem can't be used for](#what-golem-cant-be-used-for)
   - [What Golem cant be used for](#what-golem-can-be-used-for)
+  - [Still don't understand?](#still-dont-understand)
 - [Credits](#credits)
 
 ## Understanding Golem
@@ -47,6 +48,9 @@ Maybe Golem sounds utterly useless after reading the previous section. For most 
 2. Rendering 3D models without efficiency.
 3. Miscellaneous computations. This can be, for example, generating the best possible Chess move.
 ```
+### Still don't understand?
+Maybe [this](https://www.youtube.com/watch?v=FZb_w5JXvJ8) promotional video can help. Sorry! :D
 
 ## Credits
 Written by figurestudios
+Suggestions by @Phillip#9780 & u/Gnapstar 
