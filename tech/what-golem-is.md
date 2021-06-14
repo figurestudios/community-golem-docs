@@ -31,7 +31,7 @@ The requestor can run their programs on the providers computer, the provider get
 After reading the previous section, it may sound that **all** programs can run on Golem. This is not true because:
 ```
 1. Right now, internet can't be accessed from these programs.
-2. Right now, you can't use graphics cards in these programs. (part of PC that makes you able to view videos)
+2. Right now, you can't use graphics cards in these programs. (a computer part that's good at calculating advanced formulas and algorithms in a fast manner)
 3. Right now, a program can't run forever. You can't have something online 24/7 without restarting - which might be needed in the future.
 ```
 This makes it so that you **can't** run any of these examples:
