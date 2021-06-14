@@ -49,9 +49,9 @@ Maybe Golem sounds utterly useless after reading the previous section. For most 
 3. Miscellaneous computations. This can be, for example, generating the best possible Chess move.
 ```
 ### Still don't understand?
-Maybe [this](https://www.youtube.com/watch?v=FZb_w5JXvJ8) promotional video can help. Sorry! :D
+Maybe [this](https://www.youtube.com/watch?v=FZb_w5JXvJ8) promotional video can help. Alternative, Golem themselves have made their own brief overview [here](https://blog.golemproject.net/golem-primer/). Sorry incase you need this! :D
 
 ## Credits
 Written by figurestudios
 
-Suggestions by @Phillip#9780 & u/Gnapstar 
+Suggestions by @Phillip#9780, u/Gnapstar & @Matt80#1385
