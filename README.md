@@ -16,3 +16,5 @@ Collection of community-created documentation for Golem created as to minimize t
 - [Coin Holders](https://github.com/figurestudios/community-golem-docs/tree/main/coin)
   - [Earn GLM](https://github.com/figurestudios/community-golem-docs/blob/main/coin/earning-glm.md)
   - [Migration FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/coin/migration-faq.md)
+- [Tech](https://github.com/figurestudios/community-golem-docs/tree/main/tech)
+  - [What Golem is (simple)](https://github.com/figurestudios/community-golem-docs/blob/main/tech/what-golem-is.md)
