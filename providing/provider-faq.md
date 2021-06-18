@@ -30,7 +30,7 @@ Yes and no. You need to make sure you can login to [zkWallet](https://wallet.zks
 ### How much can I earn?
 Earnings are generated on a supply & demand basis; there's no sure way to know how much you're going to earn. You can lower price-settings to receive more tasks, you can higher price-settings to get more per task. You can also lower the allocated resources per node to get more nodes out, and also higher the allocated resources to get more heavy tasks.
 
-You can ask around in the [discord](https://chat.golem.network) to see what settings, hardware, and earnings other providers are currently having.
+You can ask around in the [discord](https://chat.golem.network) to see what settings, hardware, and earnings other providers are currently having. You can also refer to the [stats page](https://stats.golem.network/) to see more objective and diverse information regarding settings, hardware, and earnings.
 
 ### How are payments calculated?
 There are three price variables currently available, and you can see in this chart how they work:
@@ -66,3 +66,4 @@ Yes. Just make sure that the yagna id's differentiate by running this command:
 
 ## Credits
 Written by figurestudios
+Suggestion by @Matt80#1385
