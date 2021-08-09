@@ -21,7 +21,7 @@
 ### On Linux
 Install the latest stable release by invoking this command:
 
-``curl -sSf https://join.golem.network/dev/as-provider | bash -``
+``curl -sSf https://join.golem.network/as-provider | bash -``
 
 ##### Troubles? Refer to [this](https://handbook.golem.network/troubleshooting/provider-troubleshooting) page or join the [discord](https://chat.golem.network).
 
@@ -34,7 +34,7 @@ Install the latest stable release by invoking this command:
 5. Power on the machine/create an account/setup it how you want.
 6. Open the terminal and enter this command:
 
-``curl -sSf https://join.golem.network/dev/as-provider | bash -``
+``curl -sSf https://join.golem.network/as-provider | bash -``
 
 ##### Troubles? Refer to [this](https://handbook.golem.network/troubleshooting/provider-troubleshooting) page or join the [discord](https://chat.golem.network).
 
