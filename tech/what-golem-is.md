@@ -55,3 +55,5 @@ Maybe [this](https://www.youtube.com/watch?v=FZb_w5JXvJ8) promotional video can 
 Written by figurestudios
 
 Suggestions by @Phillip#9780, u/Gnapstar & @Matt80#1385
+
+Language corrections by @krunch3r76
