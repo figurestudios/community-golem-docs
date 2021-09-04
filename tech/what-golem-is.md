@@ -33,13 +33,12 @@ After reading the previous section, it may sound that **all** programs can run o
 ```
 1. Right now, internet can't be accessed from these programs.
 2. Right now, you can't use graphics cards in these programs. (a computer part that's good at calculating advanced formulas and algorithms in a fast manner)
-3. Right now, a program can't run forever. You can't have something online 24/7 without restarting - which might be needed in the future.
 ```
 This makes it so that you **can't** run any of these examples:
 ```
 1. A Minecraft-server. This is because we can't use internet yet.
 2. Learning Artificial Intelligence (ML) efficiently. This is because we can't use graphics cards yet.
-3. A website. This is because (1) we can't use internet yet. (2) we can't have anything running 24/7.
+3. A website. This is because we can't use internet yet.
 ```
 ### What Golem can be used for
 Maybe Golem sounds utterly useless after reading the previous section. For most it is, but there are still a few things you can do with it:
@@ -47,6 +46,7 @@ Maybe Golem sounds utterly useless after reading the previous section. For most 
 1. Learning Artificial Intelligence (ML) without efficiency.
 2. Rendering 3D models without efficiency.
 3. Miscellaneous computations. This can be, for example, generating the best possible Chess move.
+4. Hosting data-bases (without persistent storage).
 ```
 ### Still don't understand?
 Maybe [this](https://www.youtube.com/watch?v=FZb_w5JXvJ8) promotional video can help. Alternative, Golem themselves have made their own brief overview [here](https://blog.golemproject.net/golem-primer/). Sorry incase you need this! :D
