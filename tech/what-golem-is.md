@@ -26,7 +26,7 @@ Providers let other people, requestors, use their computers in exchange for mone
 
 The computer in question is a sort of "computer inside a computer" - so requestors can't put viruses on the providers computer.
 
-The requestor can run their program's on the providers computer, the provider gets paid, and everyone is happy :)
+The requestor can run their programs on provider computers, the providers get paid, and everyone is happy :)
 
 ### What Golem can't be used for
 After reading the previous section, it may sound that **all** programs can run on Golem. This is not true because:
