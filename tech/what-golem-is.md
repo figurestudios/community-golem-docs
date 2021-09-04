@@ -20,13 +20,13 @@ What does it actually mean?
 What does a distributed marketplace mean in this context? What's decentralization? And beyond that, what can we compare it to in everyday words?
 
 ### A brief technical overview
-Golem has two major roles; requestors and providers.
+Golem has two major roles: requestors and providers.
 
 Providers let other people, requestors, use their computers in exchange for money.
 
 The computer in question is a sort of "computer inside a computer" - so requestors can't put viruses on the providers computer.
 
-The requestor can run their programs on the providers computer, the provider gets paid, and everyone is happy :)
+The requestor can run their program's on the providers computer, the provider gets paid, and everyone is happy :)
 
 ### What Golem can't be used for
 After reading the previous section, it may sound that **all** programs can run on Golem. This is not true because:
@@ -45,11 +45,11 @@ Maybe Golem sounds utterly useless after reading the previous section. For most 
 ```
 1. Learning Artificial Intelligence (ML) without efficiency.
 2. Rendering 3D models without efficiency.
-3. Miscellaneous computations. This can be, for example, generating the best possible Chess move.
-4. Hosting data-bases (without persistent storage).
+3. Miscellaneous computations. This can be, for example, generating the best possible chess move.
+4. Hosting databases (without persistent storage).
 ```
 ### Still don't understand?
-Maybe [this](https://www.youtube.com/watch?v=FZb_w5JXvJ8) promotional video can help. Alternative, Golem themselves have made their own brief overview [here](https://blog.golemproject.net/golem-primer/). Sorry incase you need this! :D
+Maybe [this](https://www.youtube.com/watch?v=FZb_w5JXvJ8) promotional video can help. Alternatively, Golem themselves have made their own brief overview [here](https://blog.golemproject.net/golem-primer/). Sorry in case you need this! :D
 
 ## Credits
 Written by figurestudios
