@@ -35,7 +35,7 @@ To find on-going Golem hackathons, check [this](https://gitcoin.co/golemfactory/
 Are you willing to dedicate your time to the Golem Community? Then, this is the category for you, as you can win up to 7,000 GLM for being active in different parts of the community:
 ```
 7000 GLM - bi-monthly - 1x prize  - Task Force General
-4500 GLM - monthly    - 1x prize  - Application Creation and Maintenance category
+4500 GLM - monthly    - 1x prize  - Application Creation and Maintenance
 4000 GLM - monthly    - 2x prizes - Tech Supporters
 2500 GLM - bi-monthly - 1x prize  - Super User
 1500 GLM - bi-monthly - 1x prize  - Telegram Moderator
