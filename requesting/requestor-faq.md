@@ -16,7 +16,7 @@
 ## General Questions
 
 ### What sorts of applications can be ran on Golem?
-> Currently only offline tasks that only utilizes CPU, RAM & disk space can be ran on Golem.
+> Currently only offline tasks and services that only utilizes CPU, RAM & disk space can be ran on Golem.
 
 ### Where can I find applications to use on Golem?
 > You can find open-source Golem projects in the [awesome-golem repo](https://github.com/golemfactory/awesome-golem#%EF%B8%8F-apps).
@@ -44,6 +44,8 @@
 > You could participate in hackathons and win prize money by providing innovation, usable projects, and value to the ecosystem.
 > 
 > You could win up to 2,500 GLM bi-monthly per the [CIP](https://blog.golemproject.net/community-incentives-program/) for requesting tasks.
+>
+> You could win up to 4,500 GLM monthly per the [CIP](https://blog.golemproject.net/community-incentives-program/) for creating and maintaining apps.
 > 
 > You can also find and report bugs in the [Bug Bounty Competition](https://blog.golemproject.net/golem-bug-bounty-competition-yagna/) to earn up to $11,900 USD.
 
