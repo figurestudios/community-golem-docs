@@ -44,7 +44,7 @@ A)
 1) Your graphics card needs to have at least 6 GB VRAM at this current stage.
 2) Your anti-virus might be blocking "GolemUI.exe" or "EthDcrMiner64.exe".
 i)If you do not have an aftermarket antivirus software installed you can unblock this by going to your Windows Security settings, and then clicking on Virus and Threat Protections.
-![allow01](/thorg/img/allow-01.png)
+![allow01](/thorg/img/allow-01.jpg)
 3) You might not have a graphics card in your PC.
 
 ##### Where can I view my GLM balance?
@@ -63,7 +63,7 @@ Ensure that Metamask is installed in your browser. Then near the top there will 
 
 Then, add the GLM by going to `Assets > Add Token` and adding the contract address from the [Polyscan Contract Page](https://polygonscan.com/token/0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf).
 
-![MetaMask03](/thorg/img/metamask-03.jpg) [MetaMask04](/thorg/img/metamask-04.png)
+![MetaMask03](/thorg/img/metamask-03.jpg) [MetaMask04](/thorg/img/metamask-04.jpg)
 
 ##### How do I import the wallet that Thorg created for me into Metamask?
 
