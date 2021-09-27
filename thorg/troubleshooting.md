@@ -4,16 +4,32 @@
 
 - [Introduction](#introduction)
 - [FAQ](#faq)
-ugh ill make this tomorrow
+  - [Both of my GPUs have lost hashrate on Thorg, what should I do?](#both-of-my-gpus-have-lost-hashrate-on-thorg-what-should-i-do)
+  - [Why is my hashrate lower than what other people have for the same GPU?](#why-is-my-hashrate-lower-than-what-other-people-have-for-the-same-gpu)
+  - [I can’t see my funds in my Metamask wallet, why is that?](#i-cant-see-my-funds-in-my-metamask-wallet-why-is-that)
+  - [Why does it say that my hardware isn't supported?](#why-does-it-say-that-my-hardware-isnt-supported)
+  - [Where can I view my GLM balance?](#where-can-i-view-my-glm-balance)
+  - [How do I switch my Metamask wallet over to the Polygon Network?](#how-do-i-switch-my-metamask-wallet-over-to-the-polygon-network)
+  - [How do I import the wallet that Thorg created for me into Metamask?](#how-do-i-import-the-wallet-that-thorg-created-for-me-into-metamask)
+  - [What's the minimum payout?](#whats-the-minimum-payout)
+  - [My browser says that Thorg isn't safe to use, why is that?](my-browser-says-that-thorg-isnt-safe-to-use-why-is-that?)
+  - [What's the minimum VRAM requirement on GPUs?](#whats-the-minimum-vram-requirement-on-gpus)
+  - [How do I check how much VRAM my GPU has?](#how-do-i-check-how-much-vram-my-gpu-has)
+  - [Why does my benchmark stop in seconds after clicking 'Run Benchmark'?](#why-does-my-benchmark-stop-in-seconds-after-clicking-run-benchmark)
+  - [How do I overclock my GPU?](#how-do-i-overclock-my-gpu)
+  - [Will XXX token mining or XXX algorithm or XXX pool be supported in the future?](#will-xxx-token-mining-or-xxx-algorithm-or-xxx-pool-be-supported-in-the-future)
+  - [What algorithm are we mining with?](#what-algorithm-are-we-mining-with)
+  - [How can I get it working on Mac or Linux?](#how-can-i-get-it-working-on-mac-or-linux)
+  - [How does the ETH get converted into GLM?](#how-does-the-eth-get-converted-into-glm)
+  - [Can I see my stats online, similar to https://stats.golem.network?](#can-i-see-my-stats-online-similar-to-httpsstatsgolemnetwork)
 - [Credits](#credits)
-this too but its basically the content from nzemel and tiaxthegrand, with some reformatting and additions from me
 
 ### Introduction
 These are community manufactured answers to frequent troubleshooting found. Feel free to use the [official FAQ](https://www.thorg.io/faq) as reference too.
 
 ### FAQ
 
-##### Both of my GPU have lost hashrate on Thorg, what should I do?
+##### Both of my GPUs have lost hashrate on Thorg, what should I do?
 
 A)
 
@@ -141,3 +157,13 @@ Thorg is a provider application allowing Windows users to compute tasks, creatin
 A)
 
 Not at the moment, but there is a private PoC built already.
+
+### Credits
+
+Originally made by @nzemel1#1782 and @TiaxtheGrand#9255.
+
+Reformatted to .MD by figurestudios.
+
+Minor fixes by mat7ias.
+
+Additions by figurestudios and mat7ias.
