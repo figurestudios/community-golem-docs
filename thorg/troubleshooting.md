@@ -63,7 +63,7 @@ Ensure that Metamask is installed in your browser. Then near the top there will 
 
 Then, add the GLM by going to `Assets > Add Token` and adding the contract address from the [Polyscan Contract Page](https://polygonscan.com/token/0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf).
 
-![MetaMask03](/thorg/img/metamask-03.jpg) [MetaMask04](/thorg/img/metamask-04.jpg)
+![MetaMask03](/thorg/img/metamask-03.jpg) ![MetaMask04](/thorg/img/metamask-04.jpg)
 
 ##### How do I import the wallet that Thorg created for me into Metamask?
 
