@@ -1,4 +1,4 @@
-# Trouble Shooting
+# Troubleshooting
 
 ### Contents
 
@@ -9,13 +9,13 @@ ugh ill make this tomorrow
 this too but its basically the content from nzemel and tiaxthegrand, with some reformatting and additions from me
 
 ### Introduction
-These are community manifactured answers to frequent trouble shooting found. Feel free to use the [official FAQ](https://www.thorg.io/faq) as reference too.
+These are community manifactured answers to frequent troubleshooting found. Feel free to use the [official FAQ](https://www.thorg.io/faq) as reference too.
 
 ### FAQ
 
 ##### Both of my GPU have lost hashrate on Thorg, what should I do?
 
-A) 
+A)
 
 1. Restart your computer.
 2. Update the drivers for your computer.
@@ -23,10 +23,10 @@ A)
 
 ##### Why is my hashrate lower than what other people have for the same GPU?
 
-A) 
+A)
 
-1) Some people overclock their GPUs. 
-2) Some people tinker with their cards through MSI afterburner. 
+1) Some people overclock their GPUs.
+2) Some people tinker with their cards through MSI afterburner.
 3) LHR graphics cards bring performance down.
 4) Using your PC at the same time will make the hashrate lower, as other programs will also be using your graphics card.
 
@@ -67,19 +67,19 @@ Click on the Metamask extension. Click 'Get Started'. Press 'Import an existing 
 
 ##### What's the minimum payout?
 
-A) 
+A)
 
 The minimum payout is 0.00000000000000001 GLM.
 
 ##### My browser says that Thorg isn't safe to use, why is that?
 
-A) 
+A)
 
-Some malware contains mining software that mines on a victims device, drawing energy and creating heat for someone else’s benefit. For this reason most antivirus softwares flag any mining software as malware, and leave it up to the end user to unblock it if they so choose. 
+Some malware contains mining software that mines on a victims device, drawing energy and creating heat for someone else’s benefit. For this reason most antivirus softwares flag any mining software as malware, and leave it up to the end user to unblock it if they so choose.
 
 ##### What's the minimum VRAM requirement on GPUs?
 
-A) 
+A)
 
 It's currently 6 GB.
 
@@ -125,5 +125,3 @@ Unfortunately there are no plans to support either of these as of now.
 A)
 
 Not at the moment, but there is a private PoC built already.
-
-
