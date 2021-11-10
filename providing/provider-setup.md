@@ -92,7 +92,7 @@ After=network.target
 [Service]
 User=golem
 Group=golem
-Environment=PATH=/home/golem/.local/bin:/home/golem/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+Environment=PATH=/home/golem/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
 Restart=on-failure
 WorkingDirectory=/home/golem
 ExecStart=/home/golem/.local/bin/golemsp run
